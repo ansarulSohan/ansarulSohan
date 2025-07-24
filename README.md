@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello there (In Obi-wan Kenobi voice) 👋
+
+I am Ansarul, also go by the name Sohan.
+Recently finished my Master's in Programming & System Architecture at the University of Oslo, where I researched energy-efficient cloud deployments.
 
 <!--
 **ansarulSohan/ansarulSohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
